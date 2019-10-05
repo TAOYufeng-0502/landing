@@ -1,0 +1,15 @@
+.btn-purple{
+	text-decoration: none;
+	background-color: #8d448b;
+	color: white;
+	padding: 2px 12px;
+	border-radius: 10px;
+	font-family: 'Playfair Display', serif;
+}
+.btn-purple:hover{
+	color: white;
+	background-color: #470938;
+	border-radius: 4px;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+}

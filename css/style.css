@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display&display=swap");
+@import url("https://fontawesome.com/css/fontawesome.css");
+@import url("components/container.css");
+@import url("components/specialities.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+    font-family: 'Kaushan Script', cursive;
+	font-size: 18px;
+	letter-spacing: 1px;
+	color: rgb(100,100,100);
+}
+
+h1,h2,h3，{
+	font-size: 20px;
+	font-weight: 530;
+	font-family: 'Roboto', sans-serif;    
+	letter-spacing: 1px;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 1px;
+	font-weight: 450;
+}
+
+img{
+	border-radius: 6px;
+}

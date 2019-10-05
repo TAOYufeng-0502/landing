@@ -1,0 +1,24 @@
+.container{
+	margin: 50px;
+	padding: 60px;
+	background: rgb(230,230,230);
+	border-radius: 100px;  
+	box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+	width: 600px
+	height: 400px;	
+	text-align: center;
+}
+@media( max-width: 960px){
+	.container{
+		width: 700px
+	}
+}
+@media( max-width: 720px){
+	.container{
+		width: 500px
+	}
+}
+@media( max-width: 540px){
+	.container{
+		width: 400px;}
+}
